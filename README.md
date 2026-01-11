@@ -1,5 +1,5 @@
 ## About Me:
-- My name is Yoga Dharma  
+- My name is Ida Bagus Yoga Dharma Putra  
 - How to reach me: yogadharmaputra2006@gmail.com   
 
 ## Socials:
