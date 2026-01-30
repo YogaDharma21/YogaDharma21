@@ -7,7 +7,9 @@
 ## Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yogadharma21_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ida-bagus-yoga-dharma-putra)  [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogadharmaputra2006@gmail.com)  
 
+<!-- Cuma munculin saat udah lumayan 
 ## Current Work
-- 📦 [Aurasic/Warehouse](https://github.com/YogaDharma21/warehouse) - Warehouse management solution for tracking stock and shipments
+- 📦 [Univo/Warehouse](https://github.com/YogaDharma21/warehouse) - Warehouse management solution for tracking stock and shipments
 ## Legacy Work
-- 🧺 [Aurasic/Laundry](https://github.com/YogaDharma21/laundry_yd) - Laundry business management solution
+- 🧺 [Univo/Laundry](https://github.com/YogaDharma21/laundry_yd) - Laundry business management solution
+-->
