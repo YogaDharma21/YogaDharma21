@@ -10,15 +10,15 @@
 ## Work
 - 🎯 [Focus (Coming Soon)](https://github.com/YogaDharma21/focus) - A productivity ecosystem designed to help you reclaim your deep work flow.
     - 🎯 [Focus Website](https://github.com/YogaDharma21/focus-website) - The web application featuring Pomodoro & Flow timers, task management, and personal analytics.
-    - 
+      
 - 🎓 [LMS (Coming Soon)](https://github.com/YogaDharma21/lms) - A streamlined platform for managers to create and distribute educational content.
     - 🎓 [LMS Website](https://github.com/YogaDharma21/lms-website) - The interactive interface for managers to build courses and students to view text and video lessons.
     - 🎓 [LMS Backend](https://github.com/YogaDharma21/lms-backend) - The central engine managing user invitations, course permissions, and media delivery.
-    - 
+      
 - 📦 [Warehouse (Coming Soon)](https://github.com/YogaDharma21/warehouse) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
     - 📦 [Warehouse Website](https://github.com/YogaDharma21/warehouse-website) - The unified web portal for administrative stock tracking and the retail shopping experience.
     - 📦 [Warehouse Backend](https://github.com/YogaDharma21/warehouse-backend) - The core engine handling real-time stock levels, order fulfillment, and secure checkout.
-    - 
+      
 - 📺 [Anime (Coming Soon)](https://github.com/YogaDharma21/anime) - A high-performance streaming platform dedicated to anime discovery and viewing.
     - 📺 [Anime Website](https://github.com/YogaDharma21/anime-website) - The frontend video player and gallery for a seamless viewing experience.
     - 📺 [Anime Backend](https://github.com/YogaDharma21/anime-backend) - The media server handling video streaming, user watchlists, and metadata.
