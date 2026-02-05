@@ -30,3 +30,20 @@
 - 🎬 Movie (Coming Soon) - A cinematic streaming ecosystem for personal or public movie collections.
     - 🎬 [Movie Website](https://github.com/YogaDharma21/movie-website) - The browsing interface featuring high-definition playback and library organization.
     - 🎬 [Movie Backend](https://github.com/YogaDharma21/movie-backend) - The backend infrastructure for transcoding, streaming, and content management.
+
+- 🔗 URL Shortener (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing a public-facing redirection service.
+    - 🔗 [URL Shortener Website](https://github.com/YogaDharma21/url-shortener-website) - The unified web portal for link management, QR code generation, analytics, and user access.
+    - 🔗 [URL Shortener Backend](https://github.com/YogaDharma21/url-shortener-backend) - The core engine handling link generation, QR code creation, redirection, analytics tracking, and security.
+
+- 👥 Workforce Management (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
+    - 👥 [Workforce Management Website](https://github.com/YogaDharma21/workforce-management-website) - The unified web portal for HR administration, employee self-service, scheduling, and reporting.
+    - 👥 [Workforce Management Backend](https://github.com/YogaDharma21/workforce-management-backend) - The core engine handling employee records, attendance tracking, shift management, payroll data integration, and access control.
+
+- 💬 Chat (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
+    - 💬 [Chat Website](https://github.com/YogaDharma21/chat-website) - The unified web interface for conversations, contact management, and message history.
+    - 💬 [Chat Backend](https://github.com/YogaDharma21/chat-backend) - The core engine handling real-time messaging, message delivery, presence status, notifications, and security.
+
+- ✈️ Flight Booking (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
+    - ✈️ [Flight Booking Website](https://github.com/YogaDharma21/flight-booking-website) - The unified web portal for flight search, booking management, payment, and user accounts.
+    - ✈️ [Flight Booking Backend](https://github.com/YogaDharma21/flight-booking-backend) - The core engine handling flight data aggregation, availability, pricing, reservations, ticketing, and payment integration.
+
