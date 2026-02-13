@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yogadharma21_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ida-bagus-yoga-dharma-putra)[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogadharmaputra2006@gmail.com)  
 
 ## Work
-- 🎯 Focus (Coming Soon) - A productivity ecosystem designed to help you reclaim your deep work flow.
+- 🎯 Focus - A productivity ecosystem designed to help you reclaim your deep work flow.
     - 🎯 [Focus Website](https://github.com/YogaDharma21/focus-website) - The web application featuring Pomodoro & Flow timers, task management, and personal analytics.
       
 - 🎓 LMS (Coming Soon) - A streamlined platform for managers to create and distribute educational content.
