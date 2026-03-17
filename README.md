@@ -11,7 +11,7 @@
 - 🎯 Focus - A productivity ecosystem designed to help you reclaim your deep work flow.
     - 🎯 [Focus Website](https://github.com/YogaDharma21/focus-website) - The web application featuring Pomodoro & Flow timers, task management, and personal analytics.
       
-- 🎓 LMS (Coming Soon) - A streamlined platform for managers to create and distribute educational content.
+- 🎓 LMS - A streamlined platform for managers to create and distribute educational content.
     - 🎓 [LMS Website](https://github.com/YogaDharma21/lms-website) - The interactive interface for managers to build courses and students to view text and video lessons.
     - 🎓 [LMS Backend](https://github.com/YogaDharma21/lms-backend) - The central engine managing user invitations, course permissions, and media delivery.
       
