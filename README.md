@@ -17,4 +17,4 @@
 - 🔗 [url-shortener](https://github.com/YogaDharma21/url-shortener) (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing redirection.
 - 👥 [Workforce Management](https://github.com/YogaDharma21/workforce-management) (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
 - 💬 [Chat](https://github.com/YogaDharma21/chat) (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
-- ✈️ [Flight Booking](https://github.com/YogaDharma21/flight-booking) (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
+- ✈️ [Flight](https://github.com/YogaDharma21/flight) (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
