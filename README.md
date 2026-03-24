@@ -8,42 +8,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yogadharma21_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ida-bagus-yoga-dharma-putra)[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogadharmaputra2006@gmail.com)  
 
 ## Work
-- 🎯 Focus - A productivity ecosystem designed to help you reclaim your deep work flow.
-    - 🎯 [Focus Website](https://github.com/YogaDharma21/focus-website) - The web application featuring Pomodoro & Flow timers, task management, and personal analytics.
-      
-- 🎓 LMS - A streamlined platform for managers to create and distribute educational content.
-    - 🎓 [LMS Website](https://github.com/YogaDharma21/lms-website) - The interactive interface for managers to build courses and students to view text and video lessons.
-    - 🎓 [LMS Backend](https://github.com/YogaDharma21/lms-backend) - The central engine managing user invitations, course permissions, and media delivery.
-      
-- 📦 Warehouse (Coming Soon) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
-    - 📦 [Warehouse Website](https://github.com/YogaDharma21/warehouse-website) - The unified web portal for administrative stock tracking and the retail shopping experience.
-    - 📦 [Warehouse Backend](https://github.com/YogaDharma21/warehouse-backend) - The core engine handling real-time stock levels, order fulfillment, and secure checkout.
-      
-- 📺 Anime (Coming Soon) - A high-performance streaming platform dedicated to anime discovery and viewing.
-    - 📺 [Anime Website](https://github.com/YogaDharma21/anime-website) - The frontend video player and gallery for a seamless viewing experience.
-    - 📺 [Anime Backend](https://github.com/YogaDharma21/anime-backend) - The media server handling video streaming, user watchlists, and metadata.
-
-- 📖 Comic (Coming Soon) - A comprehensive digital reader for Manga, Manhwa, and Manhua.
-    - 📖 [Comic Website](https://github.com/YogaDharma21/comic-website) - The web-based reader featuring optimized image loading and chapter navigation.
-    - 📖 [Comic Backend](https://github.com/YogaDharma21/comic-backend) - The content delivery system for managing image assets and reading progress.
-
-- 🎬 Movie (Coming Soon) - A cinematic streaming ecosystem for personal or public movie collections.
-    - 🎬 [Movie Website](https://github.com/YogaDharma21/movie-website) - The browsing interface featuring high-definition playback and library organization.
-    - 🎬 [Movie Backend](https://github.com/YogaDharma21/movie-backend) - The backend infrastructure for transcoding, streaming, and content management.
-
-- 🔗 URL Shortener (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing a public-facing redirection service.
-    - 🔗 [URL Shortener Website](https://github.com/YogaDharma21/url-shortener-website) - The unified web portal for link management, QR code generation, analytics, and user access.
-    - 🔗 [URL Shortener Backend](https://github.com/YogaDharma21/url-shortener-backend) - The core engine handling link generation, QR code creation, redirection, analytics tracking, and security.
-
-- 👥 Workforce Management (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
-    - 👥 [Workforce Management Website](https://github.com/YogaDharma21/workforce-management-website) - The unified web portal for HR administration, employee self-service, scheduling, and reporting.
-    - 👥 [Workforce Management Backend](https://github.com/YogaDharma21/workforce-management-backend) - The core engine handling employee records, attendance tracking, shift management, payroll data integration, and access control.
-
-- 💬 Chat (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
-    - 💬 [Chat Website](https://github.com/YogaDharma21/chat-website) - The unified web interface for conversations, contact management, and message history.
-    - 💬 [Chat Backend](https://github.com/YogaDharma21/chat-backend) - The core engine handling real-time messaging, message delivery, presence status, notifications, and security.
-
-- ✈️ Flight Booking (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
-    - ✈️ [Flight Booking Website](https://github.com/YogaDharma21/flight-booking-website) - The unified web portal for flight search, booking management, payment, and user accounts.
-    - ✈️ [Flight Booking Backend](https://github.com/YogaDharma21/flight-booking-backend) - The core engine handling flight data aggregation, availability, pricing, reservations, ticketing, and payment integration.
-
+- 🎯 [Focus](https://github.com/YogaDharma21/focus) - A productivity ecosystem designed to help you reclaim your deep work flow with timers and analytics.
+- 🎓 [LMS](https://github.com/YogaDharma21/lms) - A streamlined educational platform for managers to create courses and students to view content.
+- 📦 [Warehouse](https://github.com/YogaDharma21/warehouse) (Coming Soon) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
+- 📺 [Anime](https://github.com/YogaDharma21/anime) (Coming Soon) - A high-performance streaming platform dedicated to anime discovery and viewing.
+- 📖 [Comic](https://github.com/YogaDharma21/comic) (Coming Soon) - A comprehensive digital reader and content delivery system for Manga, Manhwa, and Manhua.
+- 🎬 [Movie](https://github.com/YogaDharma21/movie) (Coming Soon) - A cinematic streaming ecosystem for personal or public movie collections.
+- 🔗 [url-shortener](https://github.com/YogaDharma21/url-shortener) (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing redirection.
+- 👥 [Workforce Management](https://github.com/YogaDharma21/workforce-management) (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
+- 💬 [Chat](https://github.com/YogaDharma21/chat) (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
+- ✈️ [Flight Booking](https://github.com/YogaDharma21/flight-booking) (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
