@@ -10,6 +10,7 @@
 ## Work
 - 🎯 [Focus](https://github.com/YogaDharma21/focus) - A productivity ecosystem designed to help you reclaim your deep work flow with timers and analytics.
 - 🎓 [LMS](https://github.com/YogaDharma21/lms) - A streamlined educational platform for managers to create courses and students to view content.
+<!--
 - 📦 [Warehouse](https://github.com/YogaDharma21/warehouse) (Coming Soon) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
 - 📺 [Anime](https://github.com/YogaDharma21/anime) (Coming Soon) - A high-performance streaming platform dedicated to anime discovery and viewing.
 - 📖 [Comic](https://github.com/YogaDharma21/comic) (Coming Soon) - A comprehensive digital reader and content delivery system for Manga, Manhwa, and Manhua.
