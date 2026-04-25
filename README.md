@@ -8,15 +8,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yogadharma21_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ida-bagus-yoga-dharma-putra)[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogadharmaputra2006@gmail.com)  
 
 ## Work
-- 🎯 [Focus](https://github.com/YogaDharma21/focus) - A productivity ecosystem designed to help you reclaim your deep work flow with timers and analytics.
-- 🎓 [LMS](https://github.com/YogaDharma21/lms) - A streamlined educational platform for managers to create courses and students to view content.
-- 🛒 [Tokonest](https://github.com/YogaDharma21/tokonest) - A modern e-commerce platform built to streamline online shopping and storefront management.
+- [Focus](https://github.com/YogaDharma21/focus) - A productivity ecosystem designed to help you reclaim your deep work flow with timers and analytics.
+- [LMS](https://github.com/YogaDharma21/lms) - A streamlined educational platform for managers to create courses and students to view content.
+- [Tokonest](https://github.com/YogaDharma21/tokonest) - A modern e-commerce platform built to streamline online shopping and storefront management.
 <!--
-- 📦 [Warehouse](https://github.com/YogaDharma21/warehouse) (Coming Soon) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
-- 📺 [Anime](https://github.com/YogaDharma21/anime) (Coming Soon) - A high-performance streaming platform dedicated to anime discovery and viewing.
-- 📖 [Comic](https://github.com/YogaDharma21/comic) (Coming Soon) - A comprehensive digital reader and content delivery system for Manga, Manhwa, and Manhua.
-- 🎬 [Movie](https://github.com/YogaDharma21/movie) (Coming Soon) - A cinematic streaming ecosystem for personal or public movie collections.
-- 🔗 [url-shortener](https://github.com/YogaDharma21/url-shortener) (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing redirection.
-- 👥 [Workforce Management](https://github.com/YogaDharma21/workforce-management) (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
-- 💬 [Chat](https://github.com/YogaDharma21/chat) (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
-- ✈️ [Flight](https://github.com/YogaDharma21/flight) (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
+- [Warehouse](https://github.com/YogaDharma21/warehouse) (Coming Soon) - A hybrid solution for internal inventory management and a customer-facing e-commerce storefront.
+- [Anime](https://github.com/YogaDharma21/anime) (Coming Soon) - A high-performance streaming platform dedicated to anime discovery and viewing.
+- [Comic](https://github.com/YogaDharma21/comic) (Coming Soon) - A comprehensive digital reader and content delivery system for Manga, Manhwa, and Manhua.
+- [Movie](https://github.com/YogaDharma21/movie) (Coming Soon) - A cinematic streaming ecosystem for personal or public movie collections.
+- [url-shortener](https://github.com/YogaDharma21/url-shortener) (Coming Soon) - A hybrid solution for managing shortened links, generating QR codes, and providing redirection.
+- [Workforce Management](https://github.com/YogaDharma21/workforce-management) (Coming Soon) - A comprehensive solution for managing employees, schedules, attendance, and workforce operations.
+- [Chat](https://github.com/YogaDharma21/chat) (Coming Soon) - A real-time communication platform for private messaging, group chats, and team collaboration.
+- [Flight](https://github.com/YogaDharma21/flight) (Coming Soon) - A complete platform for searching flights, comparing prices, and booking air travel.
