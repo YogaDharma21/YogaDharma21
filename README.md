@@ -1,9 +1,10 @@
 # Hi, I'm Yoga Dharma 👋
 
 📍 Bali ↔ Indonesia
-
+<!--
 ![](https://streak-stats.demolab.com/?user=yogadharma21&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogadharma21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
